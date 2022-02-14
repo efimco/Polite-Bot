@@ -71,7 +71,7 @@ def getPhrase():
     if num <= 0.3:
         return "Простите, виноват"
     if 0.3 <= num < 0.6:
-        return "Великодушно извините"
+        return "Простите великодушно"
     if 0.6 <= num < 0.9:
         return "Не взыщите"
     if num >= 0.9:
