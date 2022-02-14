@@ -1,1 +1,1 @@
-worker: python script.py
+worker: python polite_bot.py
